@@ -1,0 +1,11 @@
+Progettare un database per tenere traccia delle Opere d’arte presenti nei vari Musei.
+Ogni Museo è caratterizzato da un codice, un nome univoco, la Città in cui si trova.
+Di ogni museo è necessario tenere traccia delle Opere d’arte lì esposte.
+In particolare per ogni Opera d’arte le informazioni da salvare sono: codice (che la identifica univocamente), Titolo, l’artista che l’ha realizzata e i personaggi eventualmente raffigurati.
+Dell’artista interessa tenere traccia del Nome (univoco) e della Nazionalità, del Personaggio/i raffigurato/i invece del Nome.
+
+Progettare un database per tenere traccia delle Opere d’arte presenti nei vari Musei.
+Ogni Museo è caratterizzato da un codice, un nome univoco, la Città in cui si trova.
+Di ogni museo è necessario tenere traccia delle Opere d’arte lì esposte.
+In particolare per ogni Opera d’arte le informazioni da salvare sono: codice (che la identifica univocamente), Titolo, l’artista che l’ha realizzata e i personaggi eventualmente raffigurati.
+Dell’artista interessa tenere traccia del Nome (univoco) e della Nazionalità, del Personaggio/i raffigurato/i invece del Nome.
